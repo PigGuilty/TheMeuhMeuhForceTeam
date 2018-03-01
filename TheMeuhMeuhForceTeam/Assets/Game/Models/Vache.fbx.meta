@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 4f0210e1cb095114f9d75b6771ca622f
+timeCreated: 1454169771
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: Cube.003
+    100008: Cube.004
+    100010: Cube.005
+    100012: Sphere
+    100014: Sphere.001
+    100016: Sphere.002
+    100018: Sphere.003
+    100020: Sphere.004
+    100022: //RootNode
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: Cube.003
+    400008: Cube.004
+    400010: Cube.005
+    400012: Sphere
+    400014: Sphere.001
+    400016: Sphere.002
+    400018: Sphere.003
+    400020: Sphere.004
+    400022: //RootNode
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cube.004
+    2300010: Cube.005
+    2300012: Sphere
+    2300014: Sphere.001
+    2300016: Sphere.002
+    2300018: Sphere.003
+    2300020: Sphere.004
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cube.004
+    3300010: Cube.005
+    3300012: Sphere
+    3300014: Sphere.001
+    3300016: Sphere.002
+    3300018: Sphere.003
+    3300020: Sphere.004
+    4300000: Cube.005
+    4300002: Sphere.004
+    4300004: Cube.004
+    4300006: Sphere
+    4300008: Cube
+    4300010: Cube.001
+    4300012: Sphere.001
+    4300014: Cube.002
+    4300016: Sphere.002
+    4300018: Cube.003
+    4300020: Sphere.003
+    7400000: Cube.005|Cube.001Action
+    7400002: Cube.005|Cube.004Action
+    7400004: Cube.005|Cube.005Action
+    7400006: Cube.005|Sphere.001Action
+    7400008: Cube.005|Sphere.002Action
+    7400010: Cube.005|Sphere.003Action
+    7400012: Cube.005|Sphere.004Action
+    7400014: Cube.005|SphereAction
+    7400016: Sphere.004|Cube.001Action
+    7400018: Sphere.004|Cube.004Action
+    7400020: Sphere.004|Cube.005Action
+    7400022: Sphere.004|Sphere.001Action
+    7400024: Sphere.004|Sphere.002Action
+    7400026: Sphere.004|Sphere.003Action
+    7400028: Sphere.004|Sphere.004Action
+    7400030: Sphere.004|SphereAction
+    7400032: Cube.004|Cube.001Action
+    7400034: Cube.004|Cube.004Action
+    7400036: Cube.004|Cube.005Action
+    7400038: Cube.004|Sphere.001Action
+    7400040: Cube.004|Sphere.002Action
+    7400042: Cube.004|Sphere.003Action
+    7400044: Cube.004|Sphere.004Action
+    7400046: Cube.004|SphereAction
+    7400048: Sphere|Cube.001Action
+    7400050: Sphere|Cube.004Action
+    7400052: Sphere|Cube.005Action
+    7400054: Sphere|Sphere.001Action
+    7400056: Sphere|Sphere.002Action
+    7400058: Sphere|Sphere.003Action
+    7400060: Sphere|Sphere.004Action
+    7400062: Sphere|SphereAction
+    7400064: Cube.001|Cube.001Action
+    7400066: Cube.001|Cube.004Action
+    7400068: Cube.001|Cube.005Action
+    7400070: Cube.001|Sphere.001Action
+    7400072: Cube.001|Sphere.002Action
+    7400074: Cube.001|Sphere.003Action
+    7400076: Cube.001|Sphere.004Action
+    7400078: Cube.001|SphereAction
+    7400080: Sphere.001|Cube.001Action
+    7400082: Sphere.001|Cube.004Action
+    7400084: Sphere.001|Cube.005Action
+    7400086: Sphere.001|Sphere.001Action
+    7400088: Sphere.001|Sphere.002Action
+    7400090: Sphere.001|Sphere.003Action
+    7400092: Sphere.001|Sphere.004Action
+    7400094: Sphere.001|SphereAction
+    7400096: Sphere.002|Cube.001Action
+    7400098: Sphere.002|Cube.004Action
+    7400100: Sphere.002|Cube.005Action
+    7400102: Sphere.002|Sphere.001Action
+    7400104: Sphere.002|Sphere.002Action
+    7400106: Sphere.002|Sphere.003Action
+    7400108: Sphere.002|Sphere.004Action
+    7400110: Sphere.002|SphereAction
+    7400112: Sphere.003|Cube.001Action
+    7400114: Sphere.003|Cube.004Action
+    7400116: Sphere.003|Cube.005Action
+    7400118: Sphere.003|Sphere.001Action
+    7400120: Sphere.003|Sphere.002Action
+    7400122: Sphere.003|Sphere.003Action
+    7400124: Sphere.003|Sphere.004Action
+    7400126: Sphere.003|SphereAction
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
